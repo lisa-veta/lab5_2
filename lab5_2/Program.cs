@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 namespace Lab5_2
 {
     class Program
@@ -60,6 +60,5 @@ namespace Lab5_2
 
             return flag;
         }
-
     }
 }
